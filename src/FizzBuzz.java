@@ -1,6 +1,7 @@
 /**
  * Classic Fizz Buzz Program.
  * Created by amytakayesu on 2/4/15.
+ * EDITED 2/28/16
  */
 public class FizzBuzz {
   /**

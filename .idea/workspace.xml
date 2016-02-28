@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70be2213-60e6-4c7f-b676-ebb14c088b57" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/FizzBuzzTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/package-info.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/package-info.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FizzBuzz.iml" afterPath="$PROJECT_DIR$/FizzBuzz.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/FizzBuzz.java" afterPath="$PROJECT_DIR$/src/FizzBuzz.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="70be2213-60e6-4c7f-b676-ebb14c088b57" name="Default" comment="" />
     <ignored path="FizzBuzz.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
